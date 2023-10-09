@@ -1,2 +1,2 @@
 # Demo
-Demo to test git on VS Code
+I am using this to test that I have properly installed and can correctly use git, github, and VS Code together.
